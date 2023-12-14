@@ -1,3 +1,7 @@
+# Tailus SvelteKit Boilerplate
+
+With Tailwindcss, [`Tailus Themer`](https://tailus.io/docs/themer) and Melt-UI installed and configured.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
